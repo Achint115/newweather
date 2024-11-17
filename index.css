@@ -1,0 +1,56 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    justify-items: center;
+}
+.heading{
+    text-align: center;
+    background-color: beige;
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+}
+.box{
+    margin-top: 20px;
+    height: auto;
+    width: 450px;
+    border: 2px solid rgb(241, 240, 240);
+    text-align: center;
+    display: grid;
+    
+}
+input{
+    height: 30px;
+    width: 70%;
+    border-radius: 12px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.search{
+    height: 30px;
+    width: 15%;
+    border-radius: 12px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.state{
+    margin-top: 35px;
+}
+.mainimg{
+align-items: center;
+margin: auto;
+border-radius: 12%;
+
+margin-top: 10px;
+}
+.degree{
+    font-size: 80px;
+}
+.other{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
